@@ -1,11 +1,15 @@
-# Nome do Projeto
+# Budega do seu Zezinho
 
 
 ### Justificativa
-Alguma coisa aqui
+Tô fazendo um programa para a bodega do seu zé
 
 ### Descrição do produto
-Alguma coisa aqui
+Vamos deixar a bodega do seu zé atualizada
 
 ### Especificação do papel de cada membro
-Alguma coisa aqui `@prof`
+* Cadastro de clientes `@profBreno`
+* Cadastro de produtos `Isla`
+* Cadastro de pedidos `Julia`
+* Documento de requisitos `Todos`
+* ...
